@@ -12,3 +12,4 @@ Este repositório tem como objetivo documentar meus estudos da linguagem Python.
 - Dia 06 - Projeto: Calculadora de IMC
 - Dia 07 - Funções
 - Dia 08 - Dicionários
+- Dia 09 - Módulos e bibliotecas
