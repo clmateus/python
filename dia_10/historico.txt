@@ -1,0 +1,8 @@
+Derrota - Jogador escolheu 3 e Computador 6
+Derrota - Jogador escolheu 3 e Computador 9
+Derrota - Jogador escolheu 3 e Computador 9
+Derrota - Jogador escolheu 3 e Computador 6
+Vitória - Jogador escolheu 3 e Computador 3
+Vitória - Jogador escolheu 3 e Computador 3
+Derrota - Jogador escolheu 3 e Computador 4
+Derrota - Jogador escolheu 5 e Computador 4
