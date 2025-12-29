@@ -15,3 +15,4 @@ Este repositório tem como objetivo documentar meus estudos da linguagem Python.
 - Dia 09 - Módulos e bibliotecas
 - Dia 10 - Persistência de dados
 - Dia 11 - Projeto: Todo List
+- Dia 12 - Pandas
