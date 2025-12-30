@@ -16,3 +16,4 @@ Este repositório tem como objetivo documentar meus estudos da linguagem Python.
 - Dia 10 - Persistência de dados
 - Dia 11 - Projeto: Todo List
 - Dia 12 - Pandas
+- Dia 13 - Pandas: filtros e groupby
