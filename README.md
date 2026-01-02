@@ -17,3 +17,4 @@ Este repositório tem como objetivo documentar meus estudos da linguagem Python.
 - Dia 11 - Projeto: Todo List
 - Dia 12 - Pandas
 - Dia 13 - Pandas: filtros e groupby
+- Dia 14 - Web Scraping com BeautifulSoup
