@@ -20,3 +20,4 @@ Este repositório tem como objetivo documentar meus estudos da linguagem Python.
 - Dia 14 - Web Scraping com BeautifulSoup
 - Dia 15 - Automação com Selenium
 - Dia 16 - Consumo de API's
+- Dia 17 - Projeto: Bot ETL para cotação de moedas
