@@ -62,3 +62,10 @@ if dados:
 else:
     print("Não foi possível gerar o relatório.")
 # %%
+caminho_absoluto = r'c:\Users\clmat\Documents\python\dia_17'
+
+if os.getcwd() != caminho_absoluto:
+    os.chdir(caminho_absoluto)
+    print(f"Forçado diretório para: {os.getcwd()}")
+print(f'{os.getcwd()}')
+# %%
