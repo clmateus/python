@@ -23,4 +23,5 @@ Este repositório tem como objetivo documentar meus estudos da linguagem Python.
 - Dia 17 - Projeto: Bot ETL para cotação de moedas
 - Dia 18 - Flask e rotas
 - Dia 19 - Flask: Templates HTML
-- Dia 20 - Flask: Bootstrap
+- Dia 20 - Flask: Bootstrap~
+- Dia 21 - Flask e SQLite
