@@ -25,3 +25,4 @@ Este repositório tem como objetivo documentar meus estudos da linguagem Python.
 - Dia 19 - Flask: Templates HTML
 - Dia 20 - Flask: Bootstrap
 - Dia 21 - Flask e SQLite
+- Dia 22 - Tratamento de erros personalizados
