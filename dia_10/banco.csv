@@ -1,4 +1,5 @@
-10,abc,abc,20
-30,cba,cba,40
-50,def,def,60
-70,fed,fed,80
+idade,nome,funcao,salario
+10,João,abc,20
+30,Maria,cba,40
+50,José,def,60
+70,Marta,fed,80
