@@ -29,3 +29,23 @@ Veja um exemplo:
 def retorno(juros: float):
     return lambda investimento: investimento * (1 + juros)
 ```
+
+## Função map
+
+A função map permite executar uma função a todos os elementos de uma coleção (listas, dicionários, etc.) e retornar todos os elementos transformados.
+
+Veja a estrutura da função map:
+```
+variavel = map(função, coleção)
+```
+
+Exemplo de uso:
+```
+numeros = [1, 2, 3]
+
+numeros_ao_cubo = map(lambda num: num ** 3, numeros)
+```
+
+Uma grande vantagem da função map é que ela mantém os dados pré-processados mas não os executa imediatamente. Por exemplo, na situação acima a variável "numeros_ao_cubo" não contém a lista de números elevados, mas um "map object" que só será de fato transformado em lista quando solicitado. Essa forma de operação permite que a aplicação se torne mais leve e rápida, evitando o consumo desnecessário de memória.
+
+Outra vantagem da função map é que o Python executa as operações em cada item da coleção de maneira paralela, ou seja, em vez de iterar de um em um, todos os itens são operados ao mesmo tempo. Isso resulta em aplicações extremamente mais rápidas que as feitas segundo a programação imperativa.
