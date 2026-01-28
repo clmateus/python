@@ -51,3 +51,19 @@ Uma grande vantagem da função map é que ela mantém os dados pré-processados
 Outra vantagem da função map é que o Python executa as operações em cada item da coleção de maneira paralela, ou seja, em vez de iterar de um em um, todos os itens são operados ao mesmo tempo. Isso resulta em aplicações extremamente mais rápidas que as feitas segundo a programação imperativa.
 
 ## Função filter
+
+A função filter aplica uma função lógica em todos os elementos de uma coleção e retorna apenas aqueles que resultam em verdadeiro. O retorno do filter é sempre um valor booleano.
+
+Veja a estrutura da função filter:
+```
+variavel = filter(função, coleção)
+```
+
+Exemplo de uso:
+```
+numeros = [1, 2, 3]
+
+numeros_impares = filter(lambda num: num % 2 != 0, numeros)
+```
+
+Assim como na função map, o filter também retém os dados sem executá-los imediatamente. Sendo assim, no exemplo acima a variável "numeros_impares" não possui a lista pronta, mas um "filter object".
