@@ -80,7 +80,7 @@ class ArquivoCSV(object):
         def extrair_coluna(self, indice_coluna: str):
             coluna = list()
             for linha in self.conteudo:
-                conteudo_linha = linhha.strip().split(sep=',')
+                conteudo_linha = linha.strip().split(sep=',')
                 coluna.append(conteudo_linha[indice_coluna])
             coluna.pop(0)
             return coluna
